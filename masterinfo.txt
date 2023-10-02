@@ -1,4 +1,6 @@
 :i
 
 hello add newfile rebase
+
+i added for 
  000 i added sco
