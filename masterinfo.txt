@@ -1,8 +1,4 @@
-hello hyderbad
-heloo banglore
-hello  eluru
-hello hyderbad and chenni
+:i
 
 hello add newfile rebase
-
-  i added scond point
+ 000 i added sco
